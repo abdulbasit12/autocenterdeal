@@ -2,7 +2,7 @@ import { useState } from 'react'
 import { BrowserRouter as Router, Routes, Route, Navigate } from 'react-router-dom'
 import './App.css'
 import Header from './components/shared/header'
-import Listing from './components/listing'
+import Listing from './components/listing/page'
 import Form from './components/form'
 
 function App() {
